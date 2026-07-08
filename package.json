@@ -13,12 +13,7 @@
     "types": "now-sdk dependencies"
   },
 
-  "dependencies": {
-    "lodash.snakecase": "4.1.1"
-  },
-
   "devDependencies": {
-    "@types/lodash.snakecase": "4.1.1",
     "@servicenow/sdk": "4.8.1",
     "@servicenow/glide": "27.0.5",
     "typescript": "5.5.4"
