@@ -1,0 +1,6 @@
+{
+  "scope": "x_376275_safety",
+  "scopeId": "67941d802f8ec310c600e7ca6fa4e3c2",
+  "name": "Report a Safety Issue",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
