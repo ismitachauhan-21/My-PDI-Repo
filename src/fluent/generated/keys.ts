@@ -31,6 +31,14 @@ declare global {
                         table: 'sys_module'
                         id: '3d764ed7500e471286e342731bc1b219'
                     }
+                    'safety-report-assignee-notification': {
+                        table: 'sysevent_email_action'
+                        id: '6d6770d666db4989aa09358ddcaca46b'
+                    }
+                    'safety-report-creator-notification': {
+                        table: 'sysevent_email_action'
+                        id: '0cd86223fb0742ba8545c8a887c0be31'
+                    }
                     src_server_script_ts: {
                         table: 'sys_module'
                         id: 'd4f7dd3f581545da88aa52f28e214902'
