@@ -17,16 +17,6 @@ declare global {
                         table: 'sys_script_client'
                         id: '0d4bcab0901245619e9da51eb38f46c3'
                     }
-                    'lodash.snakecase@4.1.1/index.js': {
-                        table: 'sys_module'
-                        id: 'a5dfdc5123414a91ac4374a4fc9fe5b2'
-                        deleted: true
-                    }
-                    'lodash.snakecase@4.1.1/package.json': {
-                        table: 'sys_module'
-                        id: '7e91ed3fbc2b4e86adb174a08c985d2f'
-                        deleted: true
-                    }
                     package_json: {
                         table: 'sys_module'
                         id: '3d764ed7500e471286e342731bc1b219'
